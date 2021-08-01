@@ -1,4 +1,4 @@
-# Salary_Prediction
+# Salary Prediction with Machine Learning Algorithms
 
 ![giphy](https://user-images.githubusercontent.com/76479205/127766053-f22d0fed-b22d-4960-8be8-7a9d5742708b.gif)
 
@@ -8,7 +8,7 @@ Veri seti 1988 ASA Grafik Bölümü Poster Oturumu'nda kullanılan verilerin bir
 Maaş verileri orijinal olarak Sports Illustrated, 20 Nisan 1987'den alınmıştır. 1986 ve kariyer istatistikleri, Collier Books, Macmillan Publishing Company, New
 York tarafından yayınlanan 1987 Beyzbol Ansiklopedisi Güncellemesinden elde edilmiştir.
 
-Maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol oyuncularının makine öğrenmesi modelleri kullanılarak maaş tahmin projesi gerçekleştirilmiştir. 
+Maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol oyuncularının makine öğrenmesi algoritmaları kullanılarak maaş tahmin projesi gerçekleştirilmiştir. 
 
 # Değişkenler
 
